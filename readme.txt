@@ -47,6 +47,9 @@ Please post it on the forums. I will include it with a new version.
 
 == Changelog ==
 
+= 1.0.1 =
+* Included workaround for the case when jQuery was loaded after the HTC script in which case the latter would not work
+
 = 1.0.0 =
 * Initial release
 

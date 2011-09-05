@@ -56,7 +56,7 @@ if (class_exists("IE6Support2010"))
 if (isset($ie6Support2010))
 {
 	//Actions
-	add_action('wp_head', array(&$ie6Support2010, 'addHeaderCode'), 1);
+	add_action('wp_head', array(&$ie6Support2010, 'addHeaderCode'), 99);
 }
 
 ?>
