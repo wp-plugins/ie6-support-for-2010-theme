@@ -2,8 +2,8 @@
 Contributors: Alexei Teplyakov
 Tags: 2010, twenty ten, ie6, browser support, internet explorer 6, fix
 Requires at least: 3.0
-Tested up to: 3.0
-Stable tag: 1.0
+Tested up to: 3.2
+Stable tag: 1.0.1
 
 This plugin brings Internet Explorer 6 support for the new default Wordpress theme Twenty Ten.
 
