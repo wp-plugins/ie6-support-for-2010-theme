@@ -2,7 +2,7 @@
 /* 
 Plugin Name: IE6 Support for 2010 Theme
 Plugin URI: http://firelords.net/wp-plugins/ie6-support-2010/
-Version: 1.0.0
+Version: 1.0.1
 Author: Alexei Teplyakov
 Description: A plugin that adds fixes for 2010 theme for IE6 browser; in order to make changes to CSS edit the ie6fix.css file located under the /css/ folder. Please note that all applied styles will work for IE6 only!
 
